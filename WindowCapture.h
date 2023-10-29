@@ -1,6 +1,8 @@
 #pragma once
 
-class WindowCapture
+#include "Printable.h"
+
+class WindowCapture final : public Printable
 {
 public:
     WindowCapture();

@@ -1,5 +1,4 @@
 #include "WindowCapture.h"
-#include "Utils.h"
 
 WindowCapture::WindowCapture()
 {}

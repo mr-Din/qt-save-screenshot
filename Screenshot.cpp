@@ -1,5 +1,4 @@
 #include "Screenshot.h"
-#include "Utils.h"
 
 Screenshot::Screenshot()
 {}

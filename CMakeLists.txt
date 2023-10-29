@@ -26,6 +26,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         Utils.h
         Screenshot.h Screenshot.cpp
         WindowCapture.h WindowCapture.cpp
+        Printable.h Printable.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET qt-save-screenshot APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

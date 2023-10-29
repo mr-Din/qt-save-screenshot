@@ -1,6 +1,8 @@
 #pragma once
 
-class Screenshot
+#include "Printable.h"
+
+class Screenshot final : public Printable
 {
 public:
     Screenshot();
